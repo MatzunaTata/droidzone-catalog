@@ -1,0 +1,2988 @@
+{
+ "version": 1,
+ "updated": "2026-11-08",
+ "makes": [
+  {
+   "id": "alfa-romeo",
+   "name": "Alfa Romeo",
+   "models": [
+    {
+     "id": "alfa-romeo-giulia",
+     "name": "Giulia",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "alfa-romeo-giulietta",
+     "name": "Giulietta",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "alfa-romeo-junior",
+     "name": "Junior",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "alfa-romeo-stelvio",
+     "name": "Stelvio",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "alfa-romeo-tonale",
+     "name": "Tonale",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "alpine",
+   "name": "Alpine",
+   "models": [
+    {
+     "id": "alpine-a110",
+     "name": "A110",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "alpine-a290",
+     "name": "A290",
+     "fuels": [
+      "electric"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "audi",
+   "name": "Audi",
+   "models": [
+    {
+     "id": "audi-a1",
+     "name": "A1",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "audi-a3",
+     "name": "A3",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "audi-a4",
+     "name": "A4",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "audi-a5",
+     "name": "A5",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "audi-a6",
+     "name": "A6",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "audi-a6-e-tron",
+     "name": "A6 e-tron",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "audi-a7",
+     "name": "A7",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "audi-a8",
+     "name": "A8",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "audi-e-tron-gt",
+     "name": "e-tron GT",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "audi-q2",
+     "name": "Q2",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "audi-q3",
+     "name": "Q3",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "audi-q4-e-tron",
+     "name": "Q4 e-tron",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "audi-q5",
+     "name": "Q5",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "audi-q6-e-tron",
+     "name": "Q6 e-tron",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "audi-q7",
+     "name": "Q7",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "audi-q8",
+     "name": "Q8",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "audi-q8-e-tron",
+     "name": "Q8 e-tron",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "audi-tt",
+     "name": "TT",
+     "fuels": [
+      "petrol"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bmw",
+   "name": "BMW",
+   "models": [
+    {
+     "id": "bmw-1er",
+     "name": "1er",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "bmw-2er",
+     "name": "2er",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "bmw-3er",
+     "name": "3er",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ],
+     "variants": [
+      {
+       "id": "bmw-3er-g20-320d",
+       "name": "320d",
+       "generation": "G20",
+       "fuel": "diesel",
+       "years": [
+        2019
+       ]
+      },
+      {
+       "id": "bmw-3er-g20-330i",
+       "name": "330i",
+       "generation": "G20",
+       "fuel": "petrol",
+       "years": [
+        2019
+       ]
+      }
+     ]
+    },
+    {
+     "id": "bmw-4er",
+     "name": "4er",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "bmw-5er",
+     "name": "5er",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "bmw-7er",
+     "name": "7er",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "bmw-i3",
+     "name": "i3",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "bmw-i4",
+     "name": "i4",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "bmw-i5",
+     "name": "i5",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "bmw-i7",
+     "name": "i7",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "bmw-ix",
+     "name": "iX",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "bmw-ix1",
+     "name": "iX1",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "bmw-ix2",
+     "name": "iX2",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "bmw-ix3",
+     "name": "iX3",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "bmw-x1",
+     "name": "X1",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "bmw-x2",
+     "name": "X2",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "bmw-x3",
+     "name": "X3",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "bmw-x5",
+     "name": "X5",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "bmw-x7",
+     "name": "X7",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "bmw-z4",
+     "name": "Z4",
+     "fuels": [
+      "petrol"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "byd",
+   "name": "BYD",
+   "models": [
+    {
+     "id": "byd-atto-3",
+     "name": "Atto 3",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "byd-dolphin",
+     "name": "Dolphin",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "byd-dolphin-surf",
+     "name": "Dolphin Surf",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "byd-han",
+     "name": "Han",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "byd-seal",
+     "name": "Seal",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "byd-seal-u",
+     "name": "Seal U",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "byd-tang",
+     "name": "Tang",
+     "fuels": [
+      "electric"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "citroen",
+   "name": "Citroën",
+   "models": [
+    {
+     "id": "citroen-ami",
+     "name": "Ami",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "citroen-berlingo",
+     "name": "Berlingo",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "citroen-c1",
+     "name": "C1",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "citroen-c3",
+     "name": "C3",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "citroen-c3-aircross",
+     "name": "C3 Aircross",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "citroen-c4",
+     "name": "C4",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "citroen-c5-aircross",
+     "name": "C5 Aircross",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "citroen-c5-x",
+     "name": "C5 X",
+     "fuels": [
+      "petrol"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cupra",
+   "name": "Cupra",
+   "models": [
+    {
+     "id": "cupra-ateca",
+     "name": "Ateca",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "cupra-born",
+     "name": "Born",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "cupra-formentor",
+     "name": "Formentor",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "cupra-leon",
+     "name": "Leon",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "cupra-tavascan",
+     "name": "Tavascan",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "cupra-terramar",
+     "name": "Terramar",
+     "fuels": [
+      "petrol"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dacia",
+   "name": "Dacia",
+   "models": [
+    {
+     "id": "dacia-bigster",
+     "name": "Bigster",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "dacia-duster",
+     "name": "Duster",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "dacia-jogger",
+     "name": "Jogger",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "dacia-logan",
+     "name": "Logan",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "dacia-sandero",
+     "name": "Sandero",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "dacia-spring",
+     "name": "Spring",
+     "fuels": [
+      "electric"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ds",
+   "name": "DS",
+   "models": [
+    {
+     "id": "ds-ds-3",
+     "name": "DS 3",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "ds-ds-4",
+     "name": "DS 4",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "ds-ds-7",
+     "name": "DS 7",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fiat",
+   "name": "Fiat",
+   "models": [
+    {
+     "id": "fiat-500",
+     "name": "500",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "fiat-500x",
+     "name": "500X",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "fiat-600",
+     "name": "600",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "fiat-doblo",
+     "name": "Doblo",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "fiat-ducato",
+     "name": "Ducato",
+     "fuels": [
+      "diesel"
+     ]
+    },
+    {
+     "id": "fiat-panda",
+     "name": "Panda",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "fiat-punto",
+     "name": "Punto",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "fiat-tipo",
+     "name": "Tipo",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ford",
+   "name": "Ford",
+   "models": [
+    {
+     "id": "ford-capri",
+     "name": "Capri",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "ford-ecosport",
+     "name": "EcoSport",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "ford-explorer",
+     "name": "Explorer",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "ford-fiesta",
+     "name": "Fiesta",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "ford-focus",
+     "name": "Focus",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "ford-galaxy",
+     "name": "Galaxy",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "ford-ka",
+     "name": "Ka",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "ford-kuga",
+     "name": "Kuga",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "ford-mondeo",
+     "name": "Mondeo",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "ford-mustang",
+     "name": "Mustang",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "ford-mustang-mach-e",
+     "name": "Mustang Mach-E",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "ford-puma",
+     "name": "Puma",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "ford-ranger",
+     "name": "Ranger",
+     "fuels": [
+      "diesel"
+     ]
+    },
+    {
+     "id": "ford-s-max",
+     "name": "S-Max",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "ford-tourneo",
+     "name": "Tourneo",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "ford-transit",
+     "name": "Transit",
+     "fuels": [
+      "diesel",
+      "electric"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "honda",
+   "name": "Honda",
+   "models": [
+    {
+     "id": "honda-civic",
+     "name": "Civic",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "honda-cr-v",
+     "name": "CR-V",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "honda-e",
+     "name": "e",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "honda-e-ny1",
+     "name": "e:Ny1",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "honda-hr-v",
+     "name": "HR-V",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "honda-jazz",
+     "name": "Jazz",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "honda-zr-v",
+     "name": "ZR-V",
+     "fuels": [
+      "petrol"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hyundai",
+   "name": "Hyundai",
+   "models": [
+    {
+     "id": "hyundai-bayon",
+     "name": "Bayon",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "hyundai-i10",
+     "name": "i10",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "hyundai-i20",
+     "name": "i20",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "hyundai-i30",
+     "name": "i30",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "hyundai-inster",
+     "name": "Inster",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "hyundai-ioniq",
+     "name": "Ioniq",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "hyundai-ioniq-5",
+     "name": "Ioniq 5",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "hyundai-ioniq-6",
+     "name": "Ioniq 6",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "hyundai-kona",
+     "name": "Kona",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "hyundai-santa-fe",
+     "name": "Santa Fe",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "hyundai-tucson",
+     "name": "Tucson",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jaguar",
+   "name": "Jaguar",
+   "models": [
+    {
+     "id": "jaguar-e-pace",
+     "name": "E-Pace",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "jaguar-f-pace",
+     "name": "F-Pace",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "jaguar-i-pace",
+     "name": "I-Pace",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "jaguar-xe",
+     "name": "XE",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "jaguar-xf",
+     "name": "XF",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jeep",
+   "name": "Jeep",
+   "models": [
+    {
+     "id": "jeep-avenger",
+     "name": "Avenger",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "jeep-compass",
+     "name": "Compass",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "jeep-renegade",
+     "name": "Renegade",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "jeep-wrangler",
+     "name": "Wrangler",
+     "fuels": [
+      "petrol"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kia",
+   "name": "Kia",
+   "models": [
+    {
+     "id": "kia-ceed",
+     "name": "Ceed",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "kia-ev3",
+     "name": "EV3",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "kia-ev6",
+     "name": "EV6",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "kia-ev9",
+     "name": "EV9",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "kia-niro",
+     "name": "Niro",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "kia-picanto",
+     "name": "Picanto",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "kia-rio",
+     "name": "Rio",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "kia-sorento",
+     "name": "Sorento",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "kia-soul",
+     "name": "Soul",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "kia-sportage",
+     "name": "Sportage",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "kia-stonic",
+     "name": "Stonic",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "kia-xceed",
+     "name": "XCeed",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lancia",
+   "name": "Lancia",
+   "models": [
+    {
+     "id": "lancia-ypsilon",
+     "name": "Ypsilon",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "land-rover",
+   "name": "Land Rover",
+   "models": [
+    {
+     "id": "land-rover-defender",
+     "name": "Defender",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "land-rover-discovery",
+     "name": "Discovery",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "land-rover-range-rover",
+     "name": "Range Rover",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "land-rover-range-rover-evoque",
+     "name": "Range Rover Evoque",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "land-rover-range-rover-sport",
+     "name": "Range Rover Sport",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "land-rover-range-rover-velar",
+     "name": "Range Rover Velar",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lexus",
+   "name": "Lexus",
+   "models": [
+    {
+     "id": "lexus-es",
+     "name": "ES",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "lexus-nx",
+     "name": "NX",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "lexus-rx",
+     "name": "RX",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "lexus-rz",
+     "name": "RZ",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "lexus-ux",
+     "name": "UX",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lynk-co",
+   "name": "Lynk & Co",
+   "models": [
+    {
+     "id": "lynk-co-01",
+     "name": "01",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "lynk-co-02",
+     "name": "02",
+     "fuels": [
+      "electric"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mazda",
+   "name": "Mazda",
+   "models": [
+    {
+     "id": "mazda-cx-3",
+     "name": "CX-3",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "mazda-cx-30",
+     "name": "CX-30",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "mazda-cx-5",
+     "name": "CX-5",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "mazda-cx-60",
+     "name": "CX-60",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "mazda-mazda2",
+     "name": "Mazda2",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "mazda-mazda3",
+     "name": "Mazda3",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "mazda-mazda6",
+     "name": "Mazda6",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "mazda-mx-30",
+     "name": "MX-30",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "mazda-mx-5",
+     "name": "MX-5",
+     "fuels": [
+      "petrol"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mercedes-benz",
+   "name": "Mercedes-Benz",
+   "models": [
+    {
+     "id": "mercedes-benz-a-klasse",
+     "name": "A-Klasse",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "mercedes-benz-b-klasse",
+     "name": "B-Klasse",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "mercedes-benz-c-klasse",
+     "name": "C-Klasse",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "mercedes-benz-cla",
+     "name": "CLA",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "mercedes-benz-e-klasse",
+     "name": "E-Klasse",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "mercedes-benz-eqa",
+     "name": "EQA",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "mercedes-benz-eqb",
+     "name": "EQB",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "mercedes-benz-eqc",
+     "name": "EQC",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "mercedes-benz-eqe",
+     "name": "EQE",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "mercedes-benz-eqs",
+     "name": "EQS",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "mercedes-benz-g-klasse",
+     "name": "G-Klasse",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "mercedes-benz-gla",
+     "name": "GLA",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "mercedes-benz-glb",
+     "name": "GLB",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "mercedes-benz-glc",
+     "name": "GLC",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "mercedes-benz-gle",
+     "name": "GLE",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "mercedes-benz-gls",
+     "name": "GLS",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "mercedes-benz-s-klasse",
+     "name": "S-Klasse",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "mercedes-benz-sprinter",
+     "name": "Sprinter",
+     "fuels": [
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "mercedes-benz-v-klasse",
+     "name": "V-Klasse",
+     "fuels": [
+      "diesel"
+     ]
+    },
+    {
+     "id": "mercedes-benz-vito",
+     "name": "Vito",
+     "fuels": [
+      "diesel",
+      "electric"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mg",
+   "name": "MG",
+   "models": [
+    {
+     "id": "mg-cyberster",
+     "name": "Cyberster",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "mg-hs",
+     "name": "HS",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "mg-mg3",
+     "name": "MG3",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "mg-mg4",
+     "name": "MG4",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "mg-mg5",
+     "name": "MG5",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "mg-zs",
+     "name": "ZS",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mini",
+   "name": "Mini",
+   "models": [
+    {
+     "id": "mini-aceman",
+     "name": "Aceman",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "mini-clubman",
+     "name": "Clubman",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "mini-cooper",
+     "name": "Cooper",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "mini-countryman",
+     "name": "Countryman",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mitsubishi",
+   "name": "Mitsubishi",
+   "models": [
+    {
+     "id": "mitsubishi-asx",
+     "name": "ASX",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "mitsubishi-eclipse-cross",
+     "name": "Eclipse Cross",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "mitsubishi-outlander",
+     "name": "Outlander",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "mitsubishi-space-star",
+     "name": "Space Star",
+     "fuels": [
+      "petrol"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nio",
+   "name": "NIO",
+   "models": [
+    {
+     "id": "nio-el6",
+     "name": "EL6",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "nio-et5",
+     "name": "ET5",
+     "fuels": [
+      "electric"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nissan",
+   "name": "Nissan",
+   "models": [
+    {
+     "id": "nissan-ariya",
+     "name": "Ariya",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "nissan-juke",
+     "name": "Juke",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "nissan-leaf",
+     "name": "Leaf",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "nissan-micra",
+     "name": "Micra",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "nissan-navara",
+     "name": "Navara",
+     "fuels": [
+      "diesel"
+     ]
+    },
+    {
+     "id": "nissan-qashqai",
+     "name": "Qashqai",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "nissan-x-trail",
+     "name": "X-Trail",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "opel",
+   "name": "Opel",
+   "models": [
+    {
+     "id": "opel-adam",
+     "name": "Adam",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "opel-astra",
+     "name": "Astra",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "opel-combo",
+     "name": "Combo",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "opel-corsa",
+     "name": "Corsa",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "opel-crossland",
+     "name": "Crossland",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "opel-frontera",
+     "name": "Frontera",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "opel-grandland",
+     "name": "Grandland",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "opel-insignia",
+     "name": "Insignia",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "opel-meriva",
+     "name": "Meriva",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "opel-mokka",
+     "name": "Mokka",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "opel-zafira",
+     "name": "Zafira",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "peugeot",
+   "name": "Peugeot",
+   "models": [
+    {
+     "id": "peugeot-108",
+     "name": "108",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "peugeot-2008",
+     "name": "2008",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "peugeot-208",
+     "name": "208",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "peugeot-3008",
+     "name": "3008",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "peugeot-308",
+     "name": "308",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "peugeot-408",
+     "name": "408",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "peugeot-5008",
+     "name": "5008",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "peugeot-508",
+     "name": "508",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "peugeot-partner",
+     "name": "Partner",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "peugeot-rifter",
+     "name": "Rifter",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "polestar",
+   "name": "Polestar",
+   "models": [
+    {
+     "id": "polestar-2",
+     "name": "2",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "polestar-3",
+     "name": "3",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "polestar-4",
+     "name": "4",
+     "fuels": [
+      "electric"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "porsche",
+   "name": "Porsche",
+   "models": [
+    {
+     "id": "porsche-718",
+     "name": "718",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "porsche-911",
+     "name": "911",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "porsche-cayenne",
+     "name": "Cayenne",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "porsche-macan",
+     "name": "Macan",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "porsche-panamera",
+     "name": "Panamera",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "porsche-taycan",
+     "name": "Taycan",
+     "fuels": [
+      "electric"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "renault",
+   "name": "Renault",
+   "models": [
+    {
+     "id": "renault-arkana",
+     "name": "Arkana",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "renault-austral",
+     "name": "Austral",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "renault-captur",
+     "name": "Captur",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "renault-clio",
+     "name": "Clio",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "renault-espace",
+     "name": "Espace",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "renault-kadjar",
+     "name": "Kadjar",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "renault-kangoo",
+     "name": "Kangoo",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "renault-megane",
+     "name": "Megane",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "renault-r5",
+     "name": "R5",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "renault-rafale",
+     "name": "Rafale",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "renault-scenic",
+     "name": "Scenic",
+     "fuels": [
+      "petrol",
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "renault-trafic",
+     "name": "Trafic",
+     "fuels": [
+      "diesel"
+     ]
+    },
+    {
+     "id": "renault-twingo",
+     "name": "Twingo",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "renault-zoe",
+     "name": "Zoe",
+     "fuels": [
+      "electric"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "seat",
+   "name": "Seat",
+   "models": [
+    {
+     "id": "seat-alhambra",
+     "name": "Alhambra",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "seat-arona",
+     "name": "Arona",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "seat-ateca",
+     "name": "Ateca",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "seat-ibiza",
+     "name": "Ibiza",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "seat-leon",
+     "name": "Leon",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "seat-mii",
+     "name": "Mii",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "seat-tarraco",
+     "name": "Tarraco",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "skoda",
+   "name": "Skoda",
+   "models": [
+    {
+     "id": "skoda-citigo",
+     "name": "Citigo",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "skoda-elroq",
+     "name": "Elroq",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "skoda-enyaq",
+     "name": "Enyaq",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "skoda-fabia",
+     "name": "Fabia",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "skoda-kamiq",
+     "name": "Kamiq",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "skoda-karoq",
+     "name": "Karoq",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "skoda-kodiaq",
+     "name": "Kodiaq",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "skoda-octavia",
+     "name": "Octavia",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ],
+     "variants": [
+      {
+       "id": "skoda-octavia-iii-1.6-tdi",
+       "name": "1.6 TDI",
+       "generation": "III",
+       "fuel": "diesel",
+       "years": [
+        2013,
+        2020
+       ]
+      },
+      {
+       "id": "skoda-octavia-iv-2.0-tdi",
+       "name": "2.0 TDI",
+       "generation": "IV",
+       "fuel": "diesel",
+       "years": [
+        2020
+       ]
+      }
+     ]
+    },
+    {
+     "id": "skoda-scala",
+     "name": "Scala",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "skoda-superb",
+     "name": "Superb",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "smart",
+   "name": "Smart",
+   "models": [
+    {
+     "id": "smart-1",
+     "name": "#1",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "smart-3",
+     "name": "#3",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "smart-forfour",
+     "name": "forfour",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "smart-fortwo",
+     "name": "fortwo",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "subaru",
+   "name": "Subaru",
+   "models": [
+    {
+     "id": "subaru-forester",
+     "name": "Forester",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "subaru-impreza",
+     "name": "Impreza",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "subaru-outback",
+     "name": "Outback",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "subaru-solterra",
+     "name": "Solterra",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "subaru-xv",
+     "name": "XV",
+     "fuels": [
+      "petrol"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "suzuki",
+   "name": "Suzuki",
+   "models": [
+    {
+     "id": "suzuki-ignis",
+     "name": "Ignis",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "suzuki-jimny",
+     "name": "Jimny",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "suzuki-s-cross",
+     "name": "S-Cross",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "suzuki-swift",
+     "name": "Swift",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "suzuki-vitara",
+     "name": "Vitara",
+     "fuels": [
+      "petrol"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tesla",
+   "name": "Tesla",
+   "models": [
+    {
+     "id": "tesla-cybertruck",
+     "name": "Cybertruck",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "tesla-model-3",
+     "name": "Model 3",
+     "fuels": [
+      "electric"
+     ],
+     "variants": [
+      {
+       "id": "tesla-model-3-standard-range-plus",
+       "name": "Standard Range Plus",
+       "fuel": "electric",
+       "years": [
+        2019,
+        2021
+       ]
+      },
+      {
+       "id": "tesla-model-3-long-range",
+       "name": "Long Range",
+       "fuel": "electric",
+       "years": [
+        2019
+       ]
+      },
+      {
+       "id": "tesla-model-3-rwd",
+       "name": "RWD",
+       "fuel": "electric",
+       "years": [
+        2021
+       ]
+      }
+     ]
+    },
+    {
+     "id": "tesla-model-s",
+     "name": "Model S",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "tesla-model-x",
+     "name": "Model X",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "tesla-model-y",
+     "name": "Model Y",
+     "fuels": [
+      "electric"
+     ],
+     "variants": [
+      {
+       "id": "tesla-model-y-long-range",
+       "name": "Long Range",
+       "fuel": "electric",
+       "years": [
+        2021
+       ]
+      },
+      {
+       "id": "tesla-model-y-rwd",
+       "name": "RWD",
+       "fuel": "electric",
+       "years": [
+        2022
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "toyota",
+   "name": "Toyota",
+   "models": [
+    {
+     "id": "toyota-auris",
+     "name": "Auris",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "toyota-aygo-x",
+     "name": "Aygo X",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "toyota-bz4x",
+     "name": "bZ4X",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "toyota-c-hr",
+     "name": "C-HR",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "toyota-camry",
+     "name": "Camry",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "toyota-corolla",
+     "name": "Corolla",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "toyota-gr86",
+     "name": "GR86",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "toyota-hilux",
+     "name": "Hilux",
+     "fuels": [
+      "diesel"
+     ]
+    },
+    {
+     "id": "toyota-land-cruiser",
+     "name": "Land Cruiser",
+     "fuels": [
+      "diesel"
+     ]
+    },
+    {
+     "id": "toyota-prius",
+     "name": "Prius",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "toyota-proace",
+     "name": "Proace",
+     "fuels": [
+      "diesel",
+      "electric"
+     ]
+    },
+    {
+     "id": "toyota-rav4",
+     "name": "RAV4",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "toyota-supra",
+     "name": "Supra",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "toyota-yaris",
+     "name": "Yaris",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "toyota-yaris-cross",
+     "name": "Yaris Cross",
+     "fuels": [
+      "petrol"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "volkswagen",
+   "name": "Volkswagen",
+   "models": [
+    {
+     "id": "volkswagen-amarok",
+     "name": "Amarok",
+     "fuels": [
+      "diesel"
+     ]
+    },
+    {
+     "id": "volkswagen-arteon",
+     "name": "Arteon",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "volkswagen-beetle",
+     "name": "Beetle",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "volkswagen-caddy",
+     "name": "Caddy",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "volkswagen-e-golf",
+     "name": "e-Golf",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "volkswagen-golf",
+     "name": "Golf",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ],
+     "variants": [
+      {
+       "id": "volkswagen-golf-7-1.4-tsi",
+       "name": "1.4 TSI",
+       "generation": "7",
+       "fuel": "petrol",
+       "years": [
+        2012,
+        2020
+       ]
+      },
+      {
+       "id": "volkswagen-golf-7-1.6-tdi",
+       "name": "1.6 TDI",
+       "generation": "7",
+       "fuel": "diesel",
+       "years": [
+        2012,
+        2020
+       ]
+      },
+      {
+       "id": "volkswagen-golf-7-2.0-tdi",
+       "name": "2.0 TDI",
+       "generation": "7",
+       "fuel": "diesel",
+       "years": [
+        2012,
+        2020
+       ]
+      },
+      {
+       "id": "volkswagen-golf-8-1.5-tsi",
+       "name": "1.5 TSI",
+       "generation": "8",
+       "fuel": "petrol",
+       "years": [
+        2019
+       ]
+      },
+      {
+       "id": "volkswagen-golf-8-2.0-tdi",
+       "name": "2.0 TDI",
+       "generation": "8",
+       "fuel": "diesel",
+       "years": [
+        2019
+       ]
+      }
+     ]
+    },
+    {
+     "id": "volkswagen-id.-buzz",
+     "name": "ID. Buzz",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "volkswagen-id.3",
+     "name": "ID.3",
+     "fuels": [
+      "electric"
+     ],
+     "variants": [
+      {
+       "id": "volkswagen-id.3-pro-58-kwh",
+       "name": "Pro 58 kWh",
+       "fuel": "electric",
+       "years": [
+        2020
+       ]
+      },
+      {
+       "id": "volkswagen-id.3-pro-s-77-kwh",
+       "name": "Pro S 77 kWh",
+       "fuel": "electric",
+       "years": [
+        2021
+       ]
+      }
+     ]
+    },
+    {
+     "id": "volkswagen-id.4",
+     "name": "ID.4",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "volkswagen-id.5",
+     "name": "ID.5",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "volkswagen-id.7",
+     "name": "ID.7",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "volkswagen-multivan",
+     "name": "Multivan",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "volkswagen-passat",
+     "name": "Passat",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "volkswagen-polo",
+     "name": "Polo",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ],
+     "variants": [
+      {
+       "id": "volkswagen-polo-6r-1.2-tsi",
+       "name": "1.2 TSI",
+       "generation": "6R",
+       "fuel": "petrol",
+       "years": [
+        2009,
+        2014
+       ]
+      },
+      {
+       "id": "volkswagen-polo-6r-1.2-tdi",
+       "name": "1.2 TDI",
+       "generation": "6R",
+       "fuel": "diesel",
+       "years": [
+        2009,
+        2014
+       ]
+      },
+      {
+       "id": "volkswagen-polo-aw-1.0-tsi",
+       "name": "1.0 TSI",
+       "generation": "AW",
+       "fuel": "petrol",
+       "years": [
+        2017
+       ]
+      },
+      {
+       "id": "volkswagen-polo-aw-1.6-tdi",
+       "name": "1.6 TDI",
+       "generation": "AW",
+       "fuel": "diesel",
+       "years": [
+        2017,
+        2021
+       ]
+      }
+     ]
+    },
+    {
+     "id": "volkswagen-scirocco",
+     "name": "Scirocco",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "volkswagen-sharan",
+     "name": "Sharan",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "volkswagen-t-cross",
+     "name": "T-Cross",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "volkswagen-t-roc",
+     "name": "T-Roc",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "volkswagen-taigo",
+     "name": "Taigo",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "volkswagen-tiguan",
+     "name": "Tiguan",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "volkswagen-touareg",
+     "name": "Touareg",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "volkswagen-touran",
+     "name": "Touran",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "volkswagen-transporter",
+     "name": "Transporter",
+     "fuels": [
+      "diesel"
+     ]
+    },
+    {
+     "id": "volkswagen-up",
+     "name": "up!",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "volvo",
+   "name": "Volvo",
+   "models": [
+    {
+     "id": "volvo-c40",
+     "name": "C40",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "volvo-ex30",
+     "name": "EX30",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "volvo-ex40",
+     "name": "EX40",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "volvo-ex90",
+     "name": "EX90",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "volvo-s60",
+     "name": "S60",
+     "fuels": [
+      "petrol"
+     ]
+    },
+    {
+     "id": "volvo-v60",
+     "name": "V60",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "volvo-v90",
+     "name": "V90",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "volvo-xc40",
+     "name": "XC40",
+     "fuels": [
+      "petrol",
+      "electric"
+     ]
+    },
+    {
+     "id": "volvo-xc60",
+     "name": "XC60",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    },
+    {
+     "id": "volvo-xc90",
+     "name": "XC90",
+     "fuels": [
+      "petrol",
+      "diesel"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "xpeng",
+   "name": "Xpeng",
+   "models": [
+    {
+     "id": "xpeng-g6",
+     "name": "G6",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "xpeng-g9",
+     "name": "G9",
+     "fuels": [
+      "electric"
+     ]
+    },
+    {
+     "id": "xpeng-p7",
+     "name": "P7",
+     "fuels": [
+      "electric"
+     ]
+    }
+   ]
+  }
+ ]
+}
