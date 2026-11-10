@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Struckto – Apps</title>
+<meta name="description" content="Android-Apps von Struckto.">
+<link rel="icon" href="img/spritrechner.png">
+<style>
+  :root { --bg: #f7f8fb; --card: #ffffff; --text: #1b1c1f; --muted: #5d6068; --accent: #1e5aa8; --line: #e1e4ea; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #111317; --card: #1a1d23; --text: #e6e7ea; --muted: #a0a4ad; --accent: #9ecaff; --line: #2a2e36; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font-family: system-ui, "Segoe UI", Roboto, sans-serif; line-height: 1.5; }
+  main { max-width: 40rem; margin: 0 auto; padding: 3rem 1rem 4rem; }
+  h1 { font-size: 1.9rem; margin: 0 0 .25rem; }
+  .sub { color: var(--muted); margin: 0 0 2rem; }
+  .app { display: flex; gap: 1rem; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 1.25rem; padding: 1rem; }
+  .app img { width: 4.5rem; height: 4.5rem; border-radius: 1rem; flex: none; }
+  .app h2 { font-size: 1.15rem; margin: 0; }
+  .app p { margin: .15rem 0 .6rem; color: var(--muted); font-size: .95rem; }
+  .links { display: flex; flex-wrap: wrap; gap: .5rem 1rem; align-items: center; }
+  a { color: var(--accent); }
+  a.btn { background: var(--accent); color: var(--bg); text-decoration: none; padding: .45rem .9rem; border-radius: 999px; font-weight: 600; font-size: .95rem; }
+  footer { margin-top: 2.5rem; color: var(--muted); font-size: .9rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Struckto</h1>
+  <p class="sub">Android-Apps · Android apps</p>
+
+  <div class="app">
+    <img src="img/spritrechner.png" alt="" width="72" height="72">
+    <div>
+      <h2>Spritrechner</h2>
+      <p>Verbrauch, Tankkosten und Werkstatt im Blick · Fuel consumption, costs and service at a glance</p>
+      <div class="links">
+        <a class="btn" href="https://play.google.com/store/apps/details?id=com.struckto.spritrechner">Google Play</a>
+        <a href="privacy/spritrechner.html">Datenschutz · Privacy</a>
+      </div>
+    </div>
+  </div>
+
+  <footer>Kontakt · Contact: <a href="mailto:support@struckto.com">support@struckto.com</a></footer>
+</main>
+</body>
+</html>
